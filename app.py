@@ -5,7 +5,7 @@ import os
 
 # Add the UI title, text input and search button
 st.title("Q&A App 🔎")
-query = st.text_input("Zadaj pytanie")
+query = st.text_input("Zadaj pytanie", use_container_width = True)
 
 if st.button("Szukaj"):
    
