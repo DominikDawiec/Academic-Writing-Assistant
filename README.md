@@ -12,7 +12,7 @@ This system is particularly beneficial for facilitating research and aiding in t
 #### Project Status: [Completed]
 
 ## Application Link
-To access the application, please click on this link: [MOWZE GenAI database chatbot](https://academic-writing-assistant.streamlit.app/)
+To access the application, please click on this link: [Academic Writing Assistant](https://academic-writing-assistant.streamlit.app/)
 
 ## Project Objective
 
